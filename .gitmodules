@@ -7,9 +7,9 @@
 [submodule "Evlk-NoPins-Library"]
 	path = Evlk-NoPins-Library
 	url = git@github.com:EVOLINK-TEAM/Evlk-NoPins-Library.git
-[submodule "Evlk-74HC595-Library"]
-	path = Evlk-74HC595-Library
-	url = git@github.com:EVOLINK-TEAM/Evlk-74HC595-Library.git
+[submodule "Evlk-Shift-Register-Library"]
+	path = Evlk-Shift-Register-Library
+	url = git@github.com:EVOLINK-TEAM/Evlk-Shift-Register-Library.git
 [submodule "Evlk-HPDL1414-Library"]
 	path = Evlk-HPDL1414-Library
 	url = git@github.com:EVOLINK-TEAM/Evlk-HPDL1414-Library.git
